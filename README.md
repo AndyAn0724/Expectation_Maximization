@@ -10,3 +10,7 @@ In details, the project consists of following steps:
 2. Construct a Gaussian mixture model to be trained with expectation-maximization.
 3. Play around with the details of the Gaussian mixture model’s implementation.
 4. Implement and test a new metric called the Bayesian information criterion, which guarantees a more robust image segmentation.
+
+## Result preview: 
+![alt text](images/k6_bird_color_24.png)\n
+![GitHub Logo](/images/logo.png)
