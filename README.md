@@ -12,5 +12,5 @@ In details, the project consists of following steps:
 4. Implement and test a new metric called the Bayesian information criterion, which guarantees a more robust image segmentation.
 
 ## Result preview: 
-![alt text](images/k6_bird_color_24.png)\n
-![GitHub Logo](/images/logo.png)
+Image segamentation with 20 Gaussian Mixture Model:
+![bird_color](images/bird_color_24.png)
