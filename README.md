@@ -13,4 +13,5 @@ In details, the project consists of following steps:
 
 ## Result preview: 
 Image segamentation with 20 Gaussian Mixture Model:
+
 ![bird_color](images/bird_color_24.png)
